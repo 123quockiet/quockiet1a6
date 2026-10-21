@@ -1,0 +1,635 @@
+{
+  "frames": {
+    "blacksmith_forge_0": {
+      "frame": {
+        "x": 366,
+        "y": 415,
+        "w": 191,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 191,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 191,
+        "h": 197
+      }
+    },
+    "blacksmith_forge_1": {
+      "frame": {
+        "x": 204,
+        "y": 617,
+        "w": 192,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 196
+      }
+    },
+    "blacksmith_forge_2": {
+      "frame": {
+        "x": 561,
+        "y": 415,
+        "w": 191,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 191,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 191,
+        "h": 197
+      }
+    },
+    "blacksmith_forge_3": {
+      "frame": {
+        "x": 756,
+        "y": 415,
+        "w": 192,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 197
+      }
+    },
+    "blacksmith_forge_4": {
+      "frame": {
+        "x": 952,
+        "y": 415,
+        "w": 190,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 190,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 197
+      }
+    },
+    "blacksmith_idle_0": {
+      "frame": {
+        "x": 1146,
+        "y": 415,
+        "w": 159,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 197
+      }
+    },
+    "blacksmith_idle_1": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 159,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 204
+      }
+    },
+    "blacksmith_idle_2": {
+      "frame": {
+        "x": 600,
+        "y": 617,
+        "w": 198,
+        "h": 194
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 198,
+        "h": 194
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 194
+      }
+    },
+    "blacksmith_idle_3": {
+      "frame": {
+        "x": 400,
+        "y": 617,
+        "w": 196,
+        "h": 195
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 195
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 195
+      }
+    },
+    "blacksmith_idle_4": {
+      "frame": {
+        "x": 1309,
+        "y": 415,
+        "w": 189,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 197
+      }
+    },
+    "blacksmith_shop_0": {
+      "frame": {
+        "x": 1517,
+        "y": 4,
+        "w": 208,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 208,
+        "h": 199
+      }
+    },
+    "blacksmith_shop_1": {
+      "frame": {
+        "x": 4,
+        "y": 212,
+        "w": 209,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 199
+      }
+    },
+    "blacksmith_shop_2": {
+      "frame": {
+        "x": 908,
+        "y": 4,
+        "w": 208,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 208,
+        "h": 200
+      }
+    },
+    "blacksmith_shop_3": {
+      "frame": {
+        "x": 1502,
+        "y": 415,
+        "w": 208,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 208,
+        "h": 197
+      }
+    },
+    "blacksmith_shop_4": {
+      "frame": {
+        "x": 1193,
+        "y": 212,
+        "w": 168,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 198
+      }
+    },
+    "wizard_craft_0": {
+      "frame": {
+        "x": 1120,
+        "y": 4,
+        "w": 193,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 193,
+        "h": 200
+      }
+    },
+    "wizard_craft_1": {
+      "frame": {
+        "x": 167,
+        "y": 4,
+        "w": 196,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 201
+      }
+    },
+    "wizard_craft_2": {
+      "frame": {
+        "x": 4,
+        "y": 617,
+        "w": 196,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 197
+      }
+    },
+    "wizard_craft_3": {
+      "frame": {
+        "x": 217,
+        "y": 212,
+        "w": 195,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 195,
+        "h": 199
+      }
+    },
+    "wizard_craft_4": {
+      "frame": {
+        "x": 416,
+        "y": 212,
+        "w": 198,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 198,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 199
+      }
+    },
+    "wizard_greet_0": {
+      "frame": {
+        "x": 1365,
+        "y": 212,
+        "w": 182,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 182,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 198
+      }
+    },
+    "wizard_greet_1": {
+      "frame": {
+        "x": 618,
+        "y": 212,
+        "w": 196,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 199
+      }
+    },
+    "wizard_greet_2": {
+      "frame": {
+        "x": 1551,
+        "y": 212,
+        "w": 194,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 194,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 194,
+        "h": 198
+      }
+    },
+    "wizard_greet_3": {
+      "frame": {
+        "x": 818,
+        "y": 212,
+        "w": 192,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 199
+      }
+    },
+    "wizard_greet_4": {
+      "frame": {
+        "x": 1317,
+        "y": 4,
+        "w": 196,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 200
+      }
+    },
+    "wizard_idle_0": {
+      "frame": {
+        "x": 4,
+        "y": 415,
+        "w": 176,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 198
+      }
+    },
+    "wizard_idle_1": {
+      "frame": {
+        "x": 184,
+        "y": 415,
+        "w": 178,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 198
+      }
+    },
+    "wizard_idle_2": {
+      "frame": {
+        "x": 367,
+        "y": 4,
+        "w": 176,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 201
+      }
+    },
+    "wizard_idle_3": {
+      "frame": {
+        "x": 547,
+        "y": 4,
+        "w": 176,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 201
+      }
+    },
+    "wizard_idle_4": {
+      "frame": {
+        "x": 1014,
+        "y": 212,
+        "w": 175,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 175,
+        "h": 199
+      }
+    },
+    "wizard_idle_5": {
+      "frame": {
+        "x": 727,
+        "y": 4,
+        "w": 177,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 177,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 201
+      }
+    }
+  },
+  "meta": {
+    "app": "HatGiongTroTan NPC Packer",
+    "version": "1.0",
+    "image": "npc.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1800,
+      "h": 822
+    },
+    "scale": "1"
+  }
+}
