@@ -1,0 +1,495 @@
+{
+  "frames": {
+    "title_bg": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 1376,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1376,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1376,
+        "h": 768
+      }
+    },
+    "bg_map1": {
+      "frame": {
+        "x": 4,
+        "y": 776,
+        "w": 1376,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1376,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1376,
+        "h": 768
+      }
+    },
+    "bg_map1_mountains": {
+      "frame": {
+        "x": 4,
+        "y": 1548,
+        "w": 1376,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1376,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1376,
+        "h": 768
+      }
+    },
+    "bg_map2": {
+      "frame": {
+        "x": 4,
+        "y": 2320,
+        "w": 1376,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1376,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 1376,
+        "h": 768
+      }
+    },
+    "tile_grass": {
+      "frame": {
+        "x": 1679,
+        "y": 3092,
+        "w": 250,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 250,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 120
+      }
+    },
+    "tile_cobble_road": {
+      "frame": {
+        "x": 562,
+        "y": 3092,
+        "w": 275,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 128
+      }
+    },
+    "tile_dungeon_brick": {
+      "frame": {
+        "x": 4,
+        "y": 3092,
+        "w": 275,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 129
+      }
+    },
+    "prop_chest": {
+      "frame": {
+        "x": 4,
+        "y": 3225,
+        "w": 120,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 100
+      }
+    },
+    "prop_chest_gold": {
+      "frame": {
+        "x": 1808,
+        "y": 776,
+        "w": 137,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 137,
+        "h": 131
+      }
+    },
+    "prop_chest_jewels": {
+      "frame": {
+        "x": 1121,
+        "y": 3092,
+        "w": 137,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 137,
+        "h": 126
+      }
+    },
+    "prop_barrel": {
+      "frame": {
+        "x": 1938,
+        "y": 2320,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      }
+    },
+    "prop_torch": {
+      "frame": {
+        "x": 1939,
+        "y": 4,
+        "w": 80,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 110
+      }
+    },
+    "prop_torch_wall": {
+      "frame": {
+        "x": 1384,
+        "y": 2320,
+        "w": 550,
+        "h": 148
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 550,
+        "h": 148
+      },
+      "sourceSize": {
+        "w": 550,
+        "h": 148
+      }
+    },
+    "prop_sign": {
+      "frame": {
+        "x": 1933,
+        "y": 3092,
+        "w": 110,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 110
+      }
+    },
+    "prop_sign_post": {
+      "frame": {
+        "x": 1805,
+        "y": 4,
+        "w": 130,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 138
+      }
+    },
+    "prop_cave": {
+      "frame": {
+        "x": 1384,
+        "y": 776,
+        "w": 420,
+        "h": 280
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 420,
+        "h": 280
+      },
+      "sourceSize": {
+        "w": 420,
+        "h": 280
+      }
+    },
+    "prop_spikes": {
+      "frame": {
+        "x": 1262,
+        "y": 3092,
+        "w": 413,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 413,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 413,
+        "h": 126
+      }
+    },
+    "prop_bridge_wood": {
+      "frame": {
+        "x": 283,
+        "y": 3092,
+        "w": 275,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 129
+      }
+    },
+    "prop_ancient_pillar": {
+      "frame": {
+        "x": 1384,
+        "y": 4,
+        "w": 137,
+        "h": 385
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 385
+      },
+      "sourceSize": {
+        "w": 137,
+        "h": 385
+      }
+    },
+    "prop_stone_boulder": {
+      "frame": {
+        "x": 1806,
+        "y": 1548,
+        "w": 137,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 137,
+        "h": 128
+      }
+    },
+    "prop_gate_dark": {
+      "frame": {
+        "x": 1384,
+        "y": 1548,
+        "w": 276,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 276,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 276,
+        "h": 254
+      }
+    },
+    "prop_tree_jungle": {
+      "frame": {
+        "x": 1525,
+        "y": 4,
+        "w": 276,
+        "h": 383
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 276,
+        "h": 383
+      },
+      "sourceSize": {
+        "w": 276,
+        "h": 383
+      }
+    },
+    "prop_flowers": {
+      "frame": {
+        "x": 841,
+        "y": 3092,
+        "w": 276,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 276,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 276,
+        "h": 128
+      }
+    },
+    "prop_mushrooms_cluster": {
+      "frame": {
+        "x": 1664,
+        "y": 1548,
+        "w": 138,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 138,
+        "h": 131
+      }
+    }
+  },
+  "meta": {
+    "app": "HatGiongTroTan Asset Packer",
+    "version": "1.0",
+    "image": "world.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 3333
+    },
+    "scale": "1"
+  }
+}

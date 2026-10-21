@@ -1,0 +1,615 @@
+{
+  "frames": {
+    "player_idle_0": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_idle_1": {
+      "frame": {
+        "x": 283,
+        "y": 4,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_idle_2": {
+      "frame": {
+        "x": 562,
+        "y": 4,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_idle_3": {
+      "frame": {
+        "x": 841,
+        "y": 4,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_idle_4": {
+      "frame": {
+        "x": 1120,
+        "y": 4,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_idle_5": {
+      "frame": {
+        "x": 1399,
+        "y": 4,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_run_0": {
+      "frame": {
+        "x": 4,
+        "y": 315,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_run_1": {
+      "frame": {
+        "x": 283,
+        "y": 315,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_run_2": {
+      "frame": {
+        "x": 562,
+        "y": 315,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_run_3": {
+      "frame": {
+        "x": 841,
+        "y": 315,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_run_4": {
+      "frame": {
+        "x": 1120,
+        "y": 315,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_run_5": {
+      "frame": {
+        "x": 1399,
+        "y": 315,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_attack_0": {
+      "frame": {
+        "x": 4,
+        "y": 626,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_attack_1": {
+      "frame": {
+        "x": 283,
+        "y": 626,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_attack_2": {
+      "frame": {
+        "x": 562,
+        "y": 626,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_attack_3": {
+      "frame": {
+        "x": 841,
+        "y": 626,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_hurt": {
+      "frame": {
+        "x": 1120,
+        "y": 626,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "player_dead": {
+      "frame": {
+        "x": 1399,
+        "y": 626,
+        "w": 275,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 307
+      }
+    },
+    "mon_slime": {
+      "frame": {
+        "x": 4,
+        "y": 1173,
+        "w": 159,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 125
+      }
+    },
+    "mon_mushroom": {
+      "frame": {
+        "x": 167,
+        "y": 1173,
+        "w": 123,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 123,
+        "h": 104
+      }
+    },
+    "mon_spider": {
+      "frame": {
+        "x": 460,
+        "y": 1173,
+        "w": 159,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 76
+      }
+    },
+    "mon_bat": {
+      "frame": {
+        "x": 294,
+        "y": 1173,
+        "w": 162,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 83
+      }
+    },
+    "mon_panther": {
+      "frame": {
+        "x": 1470,
+        "y": 937,
+        "w": 235,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 235,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 235,
+        "h": 145
+      }
+    },
+    "mon_orc_axe": {
+      "frame": {
+        "x": 428,
+        "y": 937,
+        "w": 200,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 186
+      }
+    },
+    "mon_orc_enrage": {
+      "frame": {
+        "x": 248,
+        "y": 937,
+        "w": 176,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 219
+      }
+    },
+    "mon_orc_leader": {
+      "frame": {
+        "x": 4,
+        "y": 937,
+        "w": 240,
+        "h": 232
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 232
+      },
+      "sourceSize": {
+        "w": 240,
+        "h": 232
+      }
+    },
+    "mon_boss_malakar": {
+      "frame": {
+        "x": 1190,
+        "y": 937,
+        "w": 136,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 136,
+        "h": 162
+      }
+    },
+    "mon_boss_malakar_p2": {
+      "frame": {
+        "x": 632,
+        "y": 937,
+        "w": 275,
+        "h": 175
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 175
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 175
+      }
+    },
+    "mon_malakar_p1": {
+      "frame": {
+        "x": 1330,
+        "y": 937,
+        "w": 136,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 136,
+        "h": 162
+      }
+    },
+    "mon_malakar_p2": {
+      "frame": {
+        "x": 911,
+        "y": 937,
+        "w": 275,
+        "h": 175
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 175
+      },
+      "sourceSize": {
+        "w": 275,
+        "h": 175
+      }
+    }
+  },
+  "meta": {
+    "app": "HatGiongTroTan Asset Packer",
+    "version": "1.0",
+    "image": "entities.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1800,
+      "h": 1306
+    },
+    "scale": "1"
+  }
+}

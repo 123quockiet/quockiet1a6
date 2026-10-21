@@ -1,0 +1,63 @@
+/* ============================================================================
+   HẠT GIỐNG TRO TÀN – ĐẠI SỐ VECTƠ | RETRO PIXEL STYLING
+   ============================================================================ */
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: radial-gradient(ellipse at 50% 30%, #150828 0%, #080314 60%, #000000 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  overflow: hidden;
+  font-family: 'Press Start 2P', monospace;
+  user-select: none;
+}
+
+#game-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+#game-container canvas {
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  display: block;
+  box-shadow: 0 0 50px rgba(102, 34, 255, 0.4), 0 0 100px rgba(51, 0, 153, 0.3);
+  border: 3px solid #3d2f66;
+  border-radius: 4px;
+}
+
+/* Retro HUD Button */
+#mute-btn {
+  position: fixed;
+  bottom: 14px;
+  right: 18px;
+  background: #1c2b4a;
+  border: 2px solid #4a6fa5;
+  color: #ffd700;
+  font-family: 'Press Start 2P', monospace;
+  font-size: 10px;
+  padding: 8px 14px;
+  cursor: pointer;
+  border-radius: 4px;
+  z-index: 9999;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+#mute-btn:hover {
+  background: #2a3f6a;
+  border-color: #ffd700;
+  transform: translateY(-2px);
+}
